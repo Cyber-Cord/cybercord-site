@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="CyberCord is a Discord server for anyone interested in cybersecurity! Join to talk about CTFs, bug bounties, read news, and anything else that pertains to the field. We are a community of enthusiasts and learners who love meeting new people. Invite: https://discord.gg/NEcNJK4k9u.">
+
+
+    <title>CyberCord - Ethical Hacking Cybersecurity Discord Server</title>
+    
+User-agent: *
+Disallow: /h1dden_ar3a
+
+</body>
+
+</html>
+
+<!-- https://wallpaper-house.com/group/1080p-dark-wallpapers/index.php -->
