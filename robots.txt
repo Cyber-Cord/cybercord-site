@@ -10,7 +10,7 @@
 
     <title>CyberCord - Ethical Hacking Cybersecurity Discord Server</title>
     
-User-agent: *
+User-agent: *<br>
 Disallow: /h1dden_ar3a
 
 </body>
